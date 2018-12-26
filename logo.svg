@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.051 0 150 0 150 150 0.051 150"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo/square_w">
+            <g id="Group-19">
+                <g id="Group-18">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-12"></g>
+                    <polygon id="Fill-11" fill="#0089BB" mask="url(#mask-2)" points="0.051 110 30.09 110 30.09 40 0.051 40"></polygon>
+                    <polygon id="Fill-13" fill="#009EA5" mask="url(#mask-2)" points="120.208 110 150.247 110 150.247 0 120.208 0"></polygon>
+                    <polygon id="Fill-14" fill="#EDE700" mask="url(#mask-2)" points="103 110 40 110 40 47"></polygon>
+                    <polygon id="Fill-15" fill="#E3007E" mask="url(#mask-2)" points="47 40 110 40 110 103"></polygon>
+                    <polygon id="Fill-16" fill="#C8C4BE" mask="url(#mask-2)" points="0.051 30.039 110 30.039 110 0 0.051 0"></polygon>
+                    <polygon id="Fill-17" fill="#D74719" mask="url(#mask-2)" points="0.051 150.195 150.246 150.195 150.246 120 0.051 120"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="101px" viewBox="0 0 96 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>num</title>
+    <desc>Created with Sketch.</desc>
+    <g id="app_LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-34.000000, -884.000000)" fill="#0089BB" id="Group">
+            <g transform="translate(0.000000, 883.000000)">
+                <g id="num" transform="translate(33.000000, 0.000000)">
+                    <text id="POINT" font-family="HiraKakuPro-W3, Hiragino Kaku Gothic Pro" font-size="14" font-weight="300" letter-spacing="0.800000012">
+                        <tspan x="0" y="12">POINT</tspan>
+                    </text>
+                    <text id="1" font-family=".SFNSDisplay, .SF NS Display" font-size="45" font-weight="normal" letter-spacing="2.571429">
+                        <tspan x="17" y="65">1</tspan>
+                    </text>
+                    <rect id="Rectangle-4" fill-rule="nonzero" transform="translate(49.669048, 54.669048) rotate(-315.000000) translate(-49.669048, -54.669048) " x="47.6690476" y="-9.33095244" width="4" height="128"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="109px" viewBox="0 0 96 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="app_LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-34.000000, -1570.000000)" fill="#D74719" id="Group">
+            <g transform="translate(0.000000, 883.000000)">
+                <g id="num-copy" transform="translate(0.000000, 684.000000)">
+                    <g id="Group-4" transform="translate(33.000000, 0.000000)">
+                        <text id="POINT" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal" letter-spacing="0.800000012">
+                            <tspan x="0" y="14">POINT</tspan>
+                        </text>
+                        <text id="2" font-family=".SFNSDisplay, .SF NS Display" font-size="45" font-weight="normal" letter-spacing="2.571429">
+                            <tspan x="11" y="75">2</tspan>
+                        </text>
+                        <rect id="Rectangle-4" fill-rule="nonzero" transform="translate(49.669048, 64.669048) rotate(-315.000000) translate(-49.669048, -64.669048) " x="47.6690476" y="0.669047558" width="4" height="128"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

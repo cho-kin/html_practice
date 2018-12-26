@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>Machine learning</title>
+    <link rel="icon" href="favicon.png">
+    <meta name="description" content="機械学習を勉強するためのページです">
+    <link rel="stylesheet" href="css/rent_predict.css" >
+  </head>
+  <body>
+    <header>
+      <div class="home">
+        <a href="rent_predict.html">
+          HOME
+        </a>
+      </div>
+    </header>
+    <div class="contents">
+      <div class="container">
+        <div class="purpose">月額賃料予測</div>
+        <div class="index"> 入力された情報から新築した場合の予測月額賃料を算出します。</div>
+         <form name="zip_form">
+           <ul class="input_text">
+             <li>
+              <input type="text" name="area" size="50" placeholder="住所を丁目まで入力してください">
+            </li>
+            <li>
+              <input type="text" name="age" size="50" placeholder="築年数を入れてください">
+            </li>
+            <li>
+              <input type="text" name="extent" size="50" placeholder="専有面積を入れてください">
+            </li>
+            <li>
+              <input type="text" name="roomtype" size="50" placeholder="間取りを入れてください">
+            </li>
+            <li class="button">
+              <input type="button" value="結果を見る" onclick="getResult()">
+            </li>
+          </ul>
+         </form>
+       </div>
+     </div>
+    <footer>
+      <p class="copyright">(C) Ryosuke Kawasaki</p>
+    </footer>
+  </body>
+</html>
