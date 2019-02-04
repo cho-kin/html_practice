@@ -1,19 +1,21 @@
 body {
   height: 100vh;
-  display: flex;
   flex-direction: column;
   background-color: #000;
-  max-width: 660px !important;
+  max-width: 100% !important;
   margin: 0 auto;
   color: #fff;
 }
 
 header{
-  padding: : 10px 10px;
+  background-color: #000 !important;
+  padding: : 10px 10px !important;
   margin: 10px 10px;
-  justify-content: flex-start;
-  align-items: center;
+  justify-content: space-between;
   height: 50px;
+  display: flex;
+  position: sticky;
+  top: 0;
 }
 
 .icon1{
@@ -25,9 +27,15 @@ header{
   float: right;
 }
 
+.container{
+  max-width: 660px !important;
+  padding: 0;
+  margin: 0 auto;
+}
+
 .eyecatch{
   width: 100%;
-  max-width: 100%;
+  object-fit: contain;
 }
 
 .title_script{
@@ -66,4 +74,59 @@ header{
 .fs12{
   margin: 0;
   font-size: 12px;
+}
+
+.feasture{
+  padding: 50px 0 40px 0;
+  text-align: center;
+}
+
+.feature_title{
+  color:#DE1E83;
+  font-size: 20px;
+}
+
+.pointsvg{
+  position: absolute;
+  max-width: 100%;
+}
+
+.point{
+  position: relative;
+}
+
+.point2{
+  position: relative;
+}
+
+
+
+.footer-contents{
+  background-color: #303030;
+  text-align: center;
+  padding: 28px 30px 40px 30px;
+}
+
+.logo_horizontal{
+  margin-bottom: 20px;
+}
+
+.appdownload{
+  margin-bottom: 20px;
+}
+
+.footer-contents p{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.mb32{
+  margin-bottom: 32px !important;
+}
+
+.copyright{
+  text-align: center;
+  padding: 40px 0px;
 }
