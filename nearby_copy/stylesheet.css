@@ -1,5 +1,4 @@
 body {
-  height: 100vh;
   flex-direction: column;
   background-color: #000;
   max-width: 100% !important;
@@ -9,14 +8,14 @@ body {
 
 header{
   background-color: #000 !important;
-  padding: : 10px 10px !important;
+  padding: 10px 10px !important;
   margin: 10px 10px;
   justify-content: space-between;
   height: 50px;
   display: flex;
   position: sticky;
   top: 0;
-}
+}  
 
 .icon1{
   height:50px;
@@ -24,14 +23,13 @@ header{
 
 .store{
   display: inline-block;
-  float: right;
-}
+}  
 
 .container{
   max-width: 660px !important;
   padding: 0;
   margin: 0 auto;
-}
+}  
 
 .eyecatch{
   width: 100%;
@@ -64,7 +62,6 @@ header{
 
 .bold{
   margin-bottom: 16px;
-
 }
 
 .conceptdescription{
