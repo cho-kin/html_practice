@@ -88,15 +88,21 @@ header{
   max-width: 100%;
 }
 
-.point{
-  position: relative;
+.point1tag{
+  position: absolute;
 }
 
-.point2{
-  position: relative;
+.iphone1{
+  width:100%;
 }
 
+.point2tag{
+  position:absolute;
+}
 
+.iphone2{
+  width:100%;
+}
 
 .footer-contents{
   background-color: #303030;
