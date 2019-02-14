@@ -26,7 +26,8 @@ header{
 }  
 
 .store{
-  display: inline-block;
+  height:40px;
+  display:flex;
 }    
 
 .appstore{
