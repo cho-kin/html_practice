@@ -5,6 +5,10 @@ body {
   margin: 0 auto;
   color: #fff;
 }
+p{
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+}
 
 .container{
   max-width: 660px !important;
@@ -88,15 +92,19 @@ header{
   -webkit-font-smoothing:antialiased;
 }
 
+.feature_title{
+  padding: 50px 0px 40px 0px;
+}
+
 .feasture{
-  padding: 50px 0 40px 0;
   text-align: center;
 }
 
-.feature_title{
+.featuretitle{
   color:#DE1E83;
   font-size: 20px;
   justify-items: center;
+  margin-bottom: 20px;
 }
 
 .pinkborder{
@@ -106,6 +114,10 @@ header{
   background-color: #DE1E83;
 }
 
+.introduction{
+  margin:0;
+}
+
 .pointsvg{
   position: absolute;
   max-width: 100%;
@@ -113,6 +125,7 @@ header{
 
 .point1tag{
   position: absolute;
+  left: 30px;
 }
 
 .iphone1{
@@ -121,6 +134,7 @@ header{
 
 .point2tag{
   position:absolute;
+  left: 30px;
 }
 
 .iphone2{
