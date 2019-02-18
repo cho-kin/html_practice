@@ -62,6 +62,7 @@ header{
 .concept{
   background-color: #303030;
   padding: 40px 28px 32px 28px;
+  font-size: 0px;
 }
 
 .conceptlogo{
@@ -72,15 +73,19 @@ header{
 
 .bold{
   margin-bottom: 16px;
+  font-size: 14px;
+  --font-weight-bold:700;
 }
 
 .conceptdescription{
   display: inline-block;
+  vertical-align: top;
 }
 
 .fs12{
   margin: 0;
   font-size: 12px;
+  -webkit-font-smoothing:antialiased;
 }
 
 .feasture{
@@ -91,6 +96,14 @@ header{
 .feature_title{
   color:#DE1E83;
   font-size: 20px;
+  justify-items: center;
+}
+
+.pinkborder{
+  height: 2px;
+  width: 40px;
+  margin-bottom: 16px;
+  background-color: #DE1E83;
 }
 
 .pointsvg{
