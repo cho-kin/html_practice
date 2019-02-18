@@ -123,6 +123,11 @@ header{
   max-width: 100%;
 }
 
+.point{
+  position: relative;
+  z-index: -100;
+}
+
 .point1tag{
   position: absolute;
   left: 30px;
