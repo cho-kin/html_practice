@@ -74,7 +74,7 @@ header{
 .bold{
   margin-bottom: 16px;
   font-size: 14px;
-  --font-weight-bold:700;
+  font-weight: bold;
 }
 
 .conceptdescription{
@@ -102,7 +102,7 @@ header{
 .pinkborder{
   height: 2px;
   width: 40px;
-  margin-bottom: 16px;
+  margin: 0px auto 16px auto;
   background-color: #DE1E83;
 }
 
