@@ -179,8 +179,15 @@ header{
   margin-bottom: 20px;
 }
 
+.logoimage{
+  object-fit: contain;
+  max-width: 172px;;
+}
+
 .appdownload{
   margin-bottom: 20px;
+  font-size: 14px;
+  -webkit-font-smoothing:antialiased;
 }
 
 .footer-contents p{
@@ -192,9 +199,11 @@ header{
 
 .mb32{
   margin-bottom: 32px !important;
+  -webkit-font-smoothing:antialiased;
 }
 
 .copyright{
   text-align: center;
   padding: 40px 0px;
+  -webkit-font-smoothing:antialiased;
 }
