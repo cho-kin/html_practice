@@ -184,6 +184,10 @@ header{
   max-width: 172px;;
 }
 
+.logoimage{
+  heigth: 40px;
+}
+
 .appdownload{
   margin-bottom: 20px;
   font-size: 14px;
