@@ -126,6 +126,7 @@ header{
 .point{
   position: relative;
   z-index: -100;
+  margin-bottom: 100px;
 }
 
 .point1tag{
@@ -137,6 +138,17 @@ header{
   width:100%;
 }
 
+.chapter1container{
+  position: relative;
+}
+
+.chapter1{
+  position: absolute;
+  top:-100px;
+  text-align: left;
+  padding: 0 30px;
+}
+
 .point2tag{
   position:absolute;
   left: 30px;
@@ -144,6 +156,17 @@ header{
 
 .iphone2{
   width:100%;
+}
+
+.chapter2container{
+  position: relative;
+}
+
+.chapter2{
+  position: absolute;
+  top:-100px;
+  text-align: left;
+  padding: 0 30px;
 }
 
 .footer-contents{
