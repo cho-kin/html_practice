@@ -27,22 +27,22 @@ header {
 }    
 
 .icon1 {
-  height:42px;
+  height: 42px;
 }  
 
 .store {
-  height:40px;
-  display:flex;
+  height: 40px;
+  display: flex;
 
 }    
 
 .appstore {
-  height:40px;
-  margin-right:12px;
+  height: 40px;
+  margin-right: 12px;
 }
 
 .googleplay {
-  height:40px;
+  height: 40px;
 }
 
 .eyecatch {
@@ -89,7 +89,7 @@ header {
 .fs12 {
   margin: 0;
   font-size: 12px;
-  -webkit-font-smoothing:antialiased;
+  -webkit-font-smoothing: antialiased;
 }
 
 .feature_title {
@@ -101,9 +101,8 @@ header {
 }
 
 .featuretitle {
-  color:#DE1E83;
+  color: #DE1E83;
   font-size: 20px;
-  justify-items: center;
   margin-bottom: 20px;
 }
 
@@ -115,7 +114,7 @@ header {
 }
 
 .introduction {
-  margin:0;
+  margin: 0;
 }
 
 .pointsvg {
@@ -135,7 +134,7 @@ header {
 }
 
 .iphone1 {
-  width:100%;
+  width: 100%;
 }
 
 .chapter1container {
@@ -144,18 +143,18 @@ header {
 
 .chapter1 {
   position: absolute;
-  top:-100px;
+  top: -100px;
   text-align: left;
   padding: 0 30px;
 }
 
 .point2tag {
-  position:absolute;
+  position: absolute;
   left: 30px;
 }
 
 .iphone2 {
-  width:100%;
+  width: 100%;
 }
 
 .chapter2container {
@@ -164,7 +163,7 @@ header {
 
 .chapter2 {
   position: absolute;
-  top:-100px;
+  top: -100px;
   text-align: left;
   padding: 0 30px;
 }
@@ -191,7 +190,7 @@ header {
 .appdownload {
   margin-bottom: 20px;
   font-size: 14px;
-  -webkit-font-smoothing:antialiased;
+  -webkit-font-smoothing: antialiased;
 }
 
 .footer-contents p {
@@ -203,11 +202,11 @@ header {
 
 .mb32 {
   margin-bottom: 32px !important;
-  -webkit-font-smoothing:antialiased;
+  -webkit-font-smoothing: antialiased;
 }
 
 .copyright {
   text-align: center;
   padding: 40px 0px;
-  -webkit-font-smoothing:antialiased;
+  -webkit-font-smoothing: antialiased;
 }
