@@ -5,14 +5,18 @@ body {
   margin: 0 auto;
   color: #fff;
 }
+p {
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+}
 
-.container{
+.container {
   max-width: 660px !important;
   padding: 0;
   margin: 0 auto;
 }  
 
-header{
+header {
   background-color: #000 !important;
   padding: 8px 16px !important;
   justify-content: space-between;
@@ -22,125 +26,188 @@ header{
   align-items: center;
 }    
 
-.icon1{
-  height:42px;
+.icon1 {
+  height: 42px;
 }  
 
-.store{
-  height:40px;
-  display:flex;
+.store {
+  height: 40px;
+  display: flex;
 
 }    
 
-.appstore{
-  height:40px;
-  margin-right:12px;
+.appstore {
+  height: 40px;
+  margin-right: 12px;
 }
 
-.googleplay{
-  height:40px;
+.googleplay {
+  height: 40px;
 }
 
-.eyecatch{
+.eyecatch {
   width: 100%;
   object-fit: contain;
   display: flex;
 }
 
-.title_script{
+.title_script {
   padding: 30px 28px 40px 28px;
 }
 
-.title_main{
+.title_main {
   margin-bottom: 16px;
 }
 
-.description{
+.description {
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
 }
 
-.concept{
+.concept {
   background-color: #303030;
   padding: 40px 28px 32px 28px;
+  font-size: 0px;
 }
 
-.conceptlogo{
+.conceptlogo {
   width: 80px;
   max-height: 100%;
   margin-right: 22px;
 }
 
-.bold{
+.bold {
   margin-bottom: 16px;
+  font-size: 14px;
+  font-weight: bold;
 }
 
-.conceptdescription{
+.conceptdescription {
   display: inline-block;
+  vertical-align: top;
 }
 
-.fs12{
+.fs12 {
   margin: 0;
   font-size: 12px;
+  -webkit-font-smoothing: antialiased;
 }
 
-.feasture{
-  padding: 50px 0 40px 0;
+.feature_title {
+  padding: 50px 0px 40px 0px;
+}
+
+.feasture {
   text-align: center;
 }
 
-.feature_title{
-  color:#DE1E83;
+.featuretitle {
+  color: #DE1E83;
   font-size: 20px;
+  margin-bottom: 20px;
 }
 
-.pointsvg{
+.pinkborder {
+  height: 2px;
+  width: 40px;
+  margin: 0px auto 16px auto;
+  background-color: #DE1E83;
+}
+
+.introduction {
+  margin: 0;
+}
+
+.pointsvg {
   position: absolute;
   max-width: 100%;
 }
 
-.point1tag{
+.point {
+  position: relative;
+  z-index: -100;
+  margin-bottom: 100px;
+}
+
+.point1tag {
   position: absolute;
+  left: 30px;
 }
 
-.iphone1{
-  width:100%;
+.iphone1 {
+  width: 100%;
 }
 
-.point2tag{
-  position:absolute;
+.chapter1container {
+  position: relative;
 }
 
-.iphone2{
-  width:100%;
+.chapter1 {
+  position: absolute;
+  top: -100px;
+  text-align: left;
+  padding: 0 30px;
 }
 
-.footer-contents{
+.point2tag {
+  position: absolute;
+  left: 30px;
+}
+
+.iphone2 {
+  width: 100%;
+}
+
+.chapter2container {
+  position: relative;
+}
+
+.chapter2 {
+  position: absolute;
+  top: -100px;
+  text-align: left;
+  padding: 0 30px;
+}
+
+.footer-contents {
   background-color: #303030;
   text-align: center;
   padding: 28px 30px 40px 30px;
 }
 
-.logo_horizontal{
+.logo_horizontal {
   margin-bottom: 20px;
 }
 
-.appdownload{
-  margin-bottom: 20px;
+.logoimage {
+  object-fit: contain;
+  max-width: 172px;;
 }
 
-.footer-contents p{
+.logoimage {
+  heigth: 40px;
+}
+
+.appdownload {
+  margin-bottom: 20px;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.footer-contents p {
   margin: 0;
   padding: 0;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
 }
 
-.mb32{
+.mb32 {
   margin-bottom: 32px !important;
+  -webkit-font-smoothing: antialiased;
 }
 
-.copyright{
+.copyright {
   text-align: center;
   padding: 40px 0px;
+  -webkit-font-smoothing: antialiased;
 }
